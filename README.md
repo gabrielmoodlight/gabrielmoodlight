@@ -8,11 +8,9 @@ I love web development and am a front end expert, using mainly Google Stack such
 
 In my free time, I mentor beginner developers, showing them web dev trends and helping them shape the future.
 
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gabrielmoodlight"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<a href="https://www.instagram.com/gabrielmoodlight/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-<a href="https://www.youtube.com/@GabrielMoodlight"><img alt="Youtube" src="https://img.shields.io/badge/youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gabrielmoodlight"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.instagram.com/gabrielmoodlight/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white"></a>
+<a href="https://www.youtube.com/@GabrielMoodlight"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logoColor=white"></a>
 
 When I'm working, I like to use:
 <details>
